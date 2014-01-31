@@ -1,5 +1,5 @@
 {
-  "name": "generator-angular-fullstack",
+  "name": "generator-ngfs",
   "version": "1.2.5",
   "description": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
   "keywords": [
@@ -15,13 +15,13 @@
     "front-end",
     "app"
   ],
-  "homepage": "https://github.com/DaftMonk/generator-angular-fullstack",
-  "bugs": "https://github.com/DaftMonk/generator-angular-fullstack/issues",
-  "author": "Tyler Henkel",
+  "homepage": "https://github.com/csharon/generator-ngfs",
+  "bugs": "https://github.com/csharon/generator-ngfs/issues",
+  "author": "Chris Sharon",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/DaftMonk/generator-angular-fullstack.git"
+    "url": "git://github.com/csharon/generator-ngfs.git"
   },
   "scripts": {
     "test": "mocha"
